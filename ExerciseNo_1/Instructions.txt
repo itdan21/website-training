@@ -1,0 +1,4 @@
+1. Create a html file named fb.html.
+2. Create a possible structure of facebook site using all the resources of html.
+
+Note: Refrain from using redundant tags
